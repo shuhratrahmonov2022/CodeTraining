@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.C# Type Casting", "04.C#
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.C# User Input", "05.C# User Input\05.C# User Input.csproj", "{EC571911-151E-445C-B409-319DC377F148}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.C# Arithmetic operators", "06.C# Arithmetic operators\06.C# Arithmetic operators.csproj", "{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EC571911-151E-445C-B409-319DC377F148}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC571911-151E-445C-B409-319DC377F148}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC571911-151E-445C-B409-319DC377F148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
