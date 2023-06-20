@@ -6,14 +6,27 @@ namespace MyFirstProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What`s your name?");
-            String name = Console.ReadLine();
+            int friends = 10;
 
-            Console.WriteLine("What`s your age?");
-            int age = Convert.ToInt32(Console.ReadLine());
+            //friends = friends + 2;
+            // friends += 2;
+            //friends++;
 
-            Console.WriteLine("Hello" + name);
-            Console.WriteLine("You are " + age + "years old");
+            //friends = friends - 1;
+            //friends -= 1;
+            //friends--;
+
+            //friends = friends * 2;
+            //friends *= 2;
+
+            //friends = friends / 2;
+            //friends /= 2;
+
+            int reminder = friends % 2;
+
+            Console.WriteLine(reminder);
+
+            Console.WriteLine(friends);
         }
     }
 }
