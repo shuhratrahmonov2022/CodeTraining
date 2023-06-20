@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.C# Variables", "02.C# Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.C# Constants", "03.C# Constants\03.C# Constants.csproj", "{7670C6FE-18E2-4E13-85EB-7D706F1AA69C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.C# Type Casting", "04.C# Type Casting\04.C# Type Casting.csproj", "{79953F20-9AF3-4A8F-96B8-E224773CDF9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7670C6FE-18E2-4E13-85EB-7D706F1AA69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7670C6FE-18E2-4E13-85EB-7D706F1AA69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7670C6FE-18E2-4E13-85EB-7D706F1AA69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79953F20-9AF3-4A8F-96B8-E224773CDF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79953F20-9AF3-4A8F-96B8-E224773CDF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79953F20-9AF3-4A8F-96B8-E224773CDF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79953F20-9AF3-4A8F-96B8-E224773CDF9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
