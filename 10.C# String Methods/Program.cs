@@ -23,8 +23,8 @@ namespace StringMethods
             String firstName = fullName.Substring(0, 3);
             String lastName = fullName.Substring(3, 5);
             Console.WriteLine(firstName);
-           
+
             Console.WriteLine(lastName);
-        }      
+        }
     }
 }
