@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.C# Arithmetic operators"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.C# Math Class", "07.C# Math Class\07.C# Math Class.csproj", "{4E0D1318-D516-445D-BD00-155206A435D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.C# RandomNumbers", "08.C# RandomNumbers\08.C# RandomNumbers.csproj", "{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4E0D1318-D516-445D-BD00-155206A435D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E0D1318-D516-445D-BD00-155206A435D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E0D1318-D516-445D-BD00-155206A435D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
