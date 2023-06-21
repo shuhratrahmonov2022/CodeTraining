@@ -5,15 +5,17 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.C# Output", "01.C# Output\01.C# Output.csproj", "{40487CD4-6411-4FB2-AC97-068E0361D622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.C# Variables", "02.C# Variables\02.C# Variables.csproj", "{988E5165-A872-4F80-A24E-89BB8470E67B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.C# Variables", "02.C# Variables\02.C# Variables.csproj", "{988E5165-A872-4F80-A24E-89BB8470E67B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.C# Constants", "03.C# Constants\03.C# Constants.csproj", "{7670C6FE-18E2-4E13-85EB-7D706F1AA69C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.C# Constants", "03.C# Constants\03.C# Constants.csproj", "{7670C6FE-18E2-4E13-85EB-7D706F1AA69C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.C# Type Casting", "04.C# Type Casting\04.C# Type Casting.csproj", "{79953F20-9AF3-4A8F-96B8-E224773CDF9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.C# Type Casting", "04.C# Type Casting\04.C# Type Casting.csproj", "{79953F20-9AF3-4A8F-96B8-E224773CDF9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.C# User Input", "05.C# User Input\05.C# User Input.csproj", "{EC571911-151E-445C-B409-319DC377F148}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.C# User Input", "05.C# User Input\05.C# User Input.csproj", "{EC571911-151E-445C-B409-319DC377F148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.C# Arithmetic operators", "06.C# Arithmetic operators\06.C# Arithmetic operators.csproj", "{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.C# Arithmetic operators", "06.C# Arithmetic operators\06.C# Arithmetic operators.csproj", "{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.C# Math Class", "07.C# Math Class\07.C# Math Class.csproj", "{4E0D1318-D516-445D-BD00-155206A435D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DDA4F21-D59B-4685-A8D7-4BCCB563A411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0D1318-D516-445D-BD00-155206A435D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0D1318-D516-445D-BD00-155206A435D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0D1318-D516-445D-BD00-155206A435D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0D1318-D516-445D-BD00-155206A435D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
