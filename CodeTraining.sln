@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.C# Math Class", "07.C# M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.C# RandomNumbers", "08.C# RandomNumbers\08.C# RandomNumbers.csproj", "{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.C# HypotenuseCalculatorProgram", "09.C# HypotenuseCalculatorProgram\09.C# HypotenuseCalculatorProgram.csproj", "{80586F82-F4A9-4176-8EF8-5BD92B109F91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80586F82-F4A9-4176-8EF8-5BD92B109F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80586F82-F4A9-4176-8EF8-5BD92B109F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80586F82-F4A9-4176-8EF8-5BD92B109F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80586F82-F4A9-4176-8EF8-5BD92B109F91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
