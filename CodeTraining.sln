@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.C# IF_Statements", "11.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.C# Switches", "12.C# Switches\12.C# Switches.csproj", "{CA1BFC73-AC11-4001-AE0D-92980FD86632}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.C# LogicalOperators", "13.C# LogicalOperators\13.C# LogicalOperators.csproj", "{C0B2F87A-C9D0-4826-945B-3051423C27EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{CA1BFC73-AC11-4001-AE0D-92980FD86632}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA1BFC73-AC11-4001-AE0D-92980FD86632}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA1BFC73-AC11-4001-AE0D-92980FD86632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B2F87A-C9D0-4826-945B-3051423C27EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B2F87A-C9D0-4826-945B-3051423C27EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B2F87A-C9D0-4826-945B-3051423C27EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B2F87A-C9D0-4826-945B-3051423C27EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
