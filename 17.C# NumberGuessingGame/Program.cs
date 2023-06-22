@@ -18,7 +18,7 @@ namespace NumberGuessingGame
                 guess = 0;
                 guesses = 0;
                 response = "";
-                number = rand.Next(1,101);
+                number = rand.Next(1, 101);
 
                 while (guess != number)
                 {
@@ -33,7 +33,7 @@ namespace NumberGuessingGame
                     else if (guess < number)
                     {
                         Console.WriteLine(guess + "is to low!");
-                    }             
+                    }
                 }
 
                 Console.WriteLine("Number: " + number);
