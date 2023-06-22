@@ -19,15 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.C# Math Class", "07.C# M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.C# RandomNumbers", "08.C# RandomNumbers\08.C# RandomNumbers.csproj", "{98175E91-77A2-47E3-9DC6-35F1F1A6F23E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.C# HypotenuseCalculatorProgram", "09.C# HypotenuseCalculatorProgram\09.C# HypotenuseCalculatorProgram.csproj", "{80586F82-F4A9-4176-8EF8-5BD92B109F91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.C# HypotenuseCalculatorProgram", "09.C# HypotenuseCalculatorProgram\09.C# HypotenuseCalculatorProgram.csproj", "{80586F82-F4A9-4176-8EF8-5BD92B109F91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.C# String Methods", "10.C# String Methods\10.C# String Methods.csproj", "{AF89B767-80F4-4387-AA32-75245EC74623}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.C# String Methods", "10.C# String Methods\10.C# String Methods.csproj", "{AF89B767-80F4-4387-AA32-75245EC74623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.C# IF_Statements", "11.C# IF_Statements\11.C# IF_Statements.csproj", "{0359291A-FEE0-4FB3-8D7B-345F7993091A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.C# IF_Statements", "11.C# IF_Statements\11.C# IF_Statements.csproj", "{0359291A-FEE0-4FB3-8D7B-345F7993091A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.C# Switches", "12.C# Switches\12.C# Switches.csproj", "{CA1BFC73-AC11-4001-AE0D-92980FD86632}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.C# Switches", "12.C# Switches\12.C# Switches.csproj", "{CA1BFC73-AC11-4001-AE0D-92980FD86632}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.C# LogicalOperators", "13.C# LogicalOperators\13.C# LogicalOperators.csproj", "{C0B2F87A-C9D0-4826-945B-3051423C27EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.C# LogicalOperators", "13.C# LogicalOperators\13.C# LogicalOperators.csproj", "{C0B2F87A-C9D0-4826-945B-3051423C27EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.C# WhileLoops", "14.C# WhileLoops\14.C# WhileLoops.csproj", "{7D95DA49-FE5A-4F83-9232-BA96F9C4875A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{C0B2F87A-C9D0-4826-945B-3051423C27EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0B2F87A-C9D0-4826-945B-3051423C27EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0B2F87A-C9D0-4826-945B-3051423C27EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D95DA49-FE5A-4F83-9232-BA96F9C4875A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D95DA49-FE5A-4F83-9232-BA96F9C4875A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D95DA49-FE5A-4F83-9232-BA96F9C4875A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D95DA49-FE5A-4F83-9232-BA96F9C4875A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
