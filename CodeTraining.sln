@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.C# Return KeyWord", "23.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.C# Method Overloading", "24.C# Method Overloading\24.C# Method Overloading.csproj", "{D229B56B-5312-4247-9215-AF0082B921A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.C# Params KeyWord", "25.C# Params KeyWord\25.C# Params KeyWord.csproj", "{759DEDBD-8482-4F2C-95A9-A1A748728162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D229B56B-5312-4247-9215-AF0082B921A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D229B56B-5312-4247-9215-AF0082B921A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D229B56B-5312-4247-9215-AF0082B921A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759DEDBD-8482-4F2C-95A9-A1A748728162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759DEDBD-8482-4F2C-95A9-A1A748728162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759DEDBD-8482-4F2C-95A9-A1A748728162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759DEDBD-8482-4F2C-95A9-A1A748728162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
