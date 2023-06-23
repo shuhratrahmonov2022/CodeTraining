@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25.C# Params KeyWord", "25.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26.C# ExceptionHandling", "26.C# ExceptionHandling\26.C# ExceptionHandling.csproj", "{A7FBF585-F2DB-4CAE-ABEE-E619C56E1CFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.C# ConditionalOperator", "27.C# ConditionalOperator\27.C# ConditionalOperator.csproj", "{CC07968B-C56D-450D-9969-054860E25C97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27.C# ConditionalOperator", "27.C# ConditionalOperator\27.C# ConditionalOperator.csproj", "{CC07968B-C56D-450D-9969-054860E25C97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28.C# String Interpolation", "28.C# String Interpolation\28.C# String Interpolation.csproj", "{0335853B-2DF4-4E9B-962A-8FA11D73C32C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28.C# String Interpolation", "28.C# String Interpolation\28.C# String Interpolation.csproj", "{0335853B-2DF4-4E9B-962A-8FA11D73C32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29.C# MultidimensionalArrays", "29.C# MultidimensionalArrays\29.C# MultidimensionalArrays.csproj", "{C99E33D1-D106-497E-843D-9CF4938536D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{0335853B-2DF4-4E9B-962A-8FA11D73C32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0335853B-2DF4-4E9B-962A-8FA11D73C32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0335853B-2DF4-4E9B-962A-8FA11D73C32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99E33D1-D106-497E-843D-9CF4938536D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99E33D1-D106-497E-843D-9CF4938536D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99E33D1-D106-497E-843D-9CF4938536D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99E33D1-D106-497E-843D-9CF4938536D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
