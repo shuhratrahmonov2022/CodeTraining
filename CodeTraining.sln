@@ -39,21 +39,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.C# NumberGuessingGame", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.C# RockPaperScissorsGame", "18.C# RockPaperScissorsGame\18.C# RockPaperScissorsGame.csproj", "{0C0F666C-3027-4C22-9C7A-BCD7FEE3911D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.C# CalculatorProgram", "19.C# CalculatorProgram\19.C# CalculatorProgram.csproj", "{9CFD9F05-35F8-4AE8-91F2-DD6C46B1F0F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.C# CalculatorProgram", "19.C# CalculatorProgram\19.C# CalculatorProgram.csproj", "{9CFD9F05-35F8-4AE8-91F2-DD6C46B1F0F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.C# Arrays", "20.C# Arrays\20.C# Arrays.csproj", "{6FE5AB1C-3CCA-4175-83F2-9FDFB69ABE03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.C# Arrays", "20.C# Arrays\20.C# Arrays.csproj", "{6FE5AB1C-3CCA-4175-83F2-9FDFB69ABE03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.C# ForeachLoop", "21.C# ForeachLoop\21.C# ForeachLoop.csproj", "{76CF62E7-0828-4629-88D8-890D0BC60750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.C# ForeachLoop", "21.C# ForeachLoop\21.C# ForeachLoop.csproj", "{76CF62E7-0828-4629-88D8-890D0BC60750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.C# Methods", "22.C# Methods\22.C# Methods.csproj", "{4CF6434F-E645-4090-BDB7-76F998BE980C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.C# Methods", "22.C# Methods\22.C# Methods.csproj", "{4CF6434F-E645-4090-BDB7-76F998BE980C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.C# Return KeyWord", "23.C# Return KeyWord\23.C# Return KeyWord.csproj", "{13D3C1C6-A62B-44D0-A4B9-7240BCE63F96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.C# Return KeyWord", "23.C# Return KeyWord\23.C# Return KeyWord.csproj", "{13D3C1C6-A62B-44D0-A4B9-7240BCE63F96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.C# Method Overloading", "24.C# Method Overloading\24.C# Method Overloading.csproj", "{D229B56B-5312-4247-9215-AF0082B921A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24.C# Method Overloading", "24.C# Method Overloading\24.C# Method Overloading.csproj", "{D229B56B-5312-4247-9215-AF0082B921A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.C# Params KeyWord", "25.C# Params KeyWord\25.C# Params KeyWord.csproj", "{759DEDBD-8482-4F2C-95A9-A1A748728162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25.C# Params KeyWord", "25.C# Params KeyWord\25.C# Params KeyWord.csproj", "{759DEDBD-8482-4F2C-95A9-A1A748728162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26.C# ExceptionHandling", "26.C# ExceptionHandling\26.C# ExceptionHandling.csproj", "{A7FBF585-F2DB-4CAE-ABEE-E619C56E1CFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26.C# ExceptionHandling", "26.C# ExceptionHandling\26.C# ExceptionHandling.csproj", "{A7FBF585-F2DB-4CAE-ABEE-E619C56E1CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.C# ConditionalOperator", "27.C# ConditionalOperator\27.C# ConditionalOperator.csproj", "{CC07968B-C56D-450D-9969-054860E25C97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{A7FBF585-F2DB-4CAE-ABEE-E619C56E1CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7FBF585-F2DB-4CAE-ABEE-E619C56E1CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7FBF585-F2DB-4CAE-ABEE-E619C56E1CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC07968B-C56D-450D-9969-054860E25C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC07968B-C56D-450D-9969-054860E25C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC07968B-C56D-450D-9969-054860E25C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC07968B-C56D-450D-9969-054860E25C97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
