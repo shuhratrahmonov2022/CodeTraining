@@ -59,11 +59,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27.C# ConditionalOperator",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28.C# String Interpolation", "28.C# String Interpolation\28.C# String Interpolation.csproj", "{0335853B-2DF4-4E9B-962A-8FA11D73C32C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29.C# MultidimensionalArrays", "29.C# MultidimensionalArrays\29.C# MultidimensionalArrays.csproj", "{C99E33D1-D106-497E-843D-9CF4938536D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29.C# MultidimensionalArrays", "29.C# MultidimensionalArrays\29.C# MultidimensionalArrays.csproj", "{C99E33D1-D106-497E-843D-9CF4938536D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30.C# Classes", "30.C# Classes\30.C# Classes.csproj", "{616886C3-4D8F-462A-A02A-DF8C30E96EAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30.C# Classes", "30.C# Classes\30.C# Classes.csproj", "{616886C3-4D8F-462A-A02A-DF8C30E96EAA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31.C# Objects", "31.C# Objects\31.C# Objects.csproj", "{335065D8-2704-4D2F-AEC4-73817A6B9229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32.C# Constructors", "32.C# Constructors\32.C# Constructors.csproj", "{78400B4A-B2D6-44E6-B653-213A27085838}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{335065D8-2704-4D2F-AEC4-73817A6B9229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335065D8-2704-4D2F-AEC4-73817A6B9229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{335065D8-2704-4D2F-AEC4-73817A6B9229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78400B4A-B2D6-44E6-B653-213A27085838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78400B4A-B2D6-44E6-B653-213A27085838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78400B4A-B2D6-44E6-B653-213A27085838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78400B4A-B2D6-44E6-B653-213A27085838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
