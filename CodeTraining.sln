@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37.C# ArrayOfObjects", "37.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38.C# ObjectsAsArguments", "38.C# ObjectsAsArguments\38.C# ObjectsAsArguments.csproj", "{2CB9C206-BF80-49EC-8621-DEE18A40719C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39.C# MethodOverriding", "39.C# MethodOverriding\39.C# MethodOverriding.csproj", "{3B684990-600A-4BE8-AD0E-8CF12DC4227B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{2CB9C206-BF80-49EC-8621-DEE18A40719C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CB9C206-BF80-49EC-8621-DEE18A40719C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CB9C206-BF80-49EC-8621-DEE18A40719C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B684990-600A-4BE8-AD0E-8CF12DC4227B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B684990-600A-4BE8-AD0E-8CF12DC4227B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B684990-600A-4BE8-AD0E-8CF12DC4227B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B684990-600A-4BE8-AD0E-8CF12DC4227B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
