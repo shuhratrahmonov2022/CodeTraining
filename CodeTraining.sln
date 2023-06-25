@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34.C# OverloadedConstructor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35.C# Inheritance", "35.C# Inheritance\35.C# Inheritance.csproj", "{B1AA10F3-F975-44E4-AB1F-BE80A1B90F5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36. C# AbstractClass", "36. C# AbstractClass\36. C# AbstractClass.csproj", "{B6A77BBC-1C35-4B52-AEAD-7B69288670B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{B1AA10F3-F975-44E4-AB1F-BE80A1B90F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1AA10F3-F975-44E4-AB1F-BE80A1B90F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1AA10F3-F975-44E4-AB1F-BE80A1B90F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A77BBC-1C35-4B52-AEAD-7B69288670B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A77BBC-1C35-4B52-AEAD-7B69288670B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A77BBC-1C35-4B52-AEAD-7B69288670B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A77BBC-1C35-4B52-AEAD-7B69288670B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
