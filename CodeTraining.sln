@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38.C# ObjectsAsArguments", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39.C# MethodOverriding", "39.C# MethodOverriding\39.C# MethodOverriding.csproj", "{3B684990-600A-4BE8-AD0E-8CF12DC4227B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40.C# ToStringMethod", "40.C# ToStringMethod\40.C# ToStringMethod.csproj", "{459457E5-F004-40BC-9EC8-4D0C27A8AB67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{3B684990-600A-4BE8-AD0E-8CF12DC4227B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B684990-600A-4BE8-AD0E-8CF12DC4227B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B684990-600A-4BE8-AD0E-8CF12DC4227B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459457E5-F004-40BC-9EC8-4D0C27A8AB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459457E5-F004-40BC-9EC8-4D0C27A8AB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459457E5-F004-40BC-9EC8-4D0C27A8AB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459457E5-F004-40BC-9EC8-4D0C27A8AB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
