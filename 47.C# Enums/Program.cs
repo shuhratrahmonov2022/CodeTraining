@@ -16,10 +16,10 @@ namespace Enums
             //Console.WriteLine(Planets.Pluto + "is planet  # " + (int)Planets.Pluto);
             String name = PlanetRadius.Earth.ToString();
             int radius = (int)PlanetRadius.Earth;
-            double volume = Volume(PlanetRadius.Earth)
+            double volume = Volume(PlanetRadius.Earth);
             Console.WriteLine("planet: " + name);
             Console.WriteLine("radius: " + radius + "km");
-            Console.WriteLine("volume: " + valume + "km");
+            Console.WriteLine("volume: " + volume + "km");
         }
         public static double Volume(PlanetRadius radius)
         {
