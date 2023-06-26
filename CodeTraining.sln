@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45.C# Getters&Setters", "45
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46.C# AutoImplementedProperties", "46.C# AutoImplementedProperties\46.C# AutoImplementedProperties.csproj", "{8B710D82-A48A-4531-829B-75F3F75A7C48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47.C# Enums", "47.C# Enums\47.C# Enums.csproj", "{6A98E5C8-2425-463F-997E-D1CBA2514041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{8B710D82-A48A-4531-829B-75F3F75A7C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B710D82-A48A-4531-829B-75F3F75A7C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B710D82-A48A-4531-829B-75F3F75A7C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A98E5C8-2425-463F-997E-D1CBA2514041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A98E5C8-2425-463F-997E-D1CBA2514041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A98E5C8-2425-463F-997E-D1CBA2514041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A98E5C8-2425-463F-997E-D1CBA2514041}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
