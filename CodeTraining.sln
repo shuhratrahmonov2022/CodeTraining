@@ -67,23 +67,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31.C# Objects", "31.C# Obje
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32.C# Constructors", "32.C# Constructors\32.C# Constructors.csproj", "{78400B4A-B2D6-44E6-B653-213A27085838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33.C# Static", "33.C# Static\33.C# Static.csproj", "{8B40FF3C-CC9A-4E74-9B59-9F85C1441DFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33.C# Static", "33.C# Static\33.C# Static.csproj", "{8B40FF3C-CC9A-4E74-9B59-9F85C1441DFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34.C# OverloadedConstructors", "34.C# OverloadedConstructors\34.C# OverloadedConstructors.csproj", "{010DBED2-9FE6-4FD2-8679-DB47A527A927}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34.C# OverloadedConstructors", "34.C# OverloadedConstructors\34.C# OverloadedConstructors.csproj", "{010DBED2-9FE6-4FD2-8679-DB47A527A927}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35.C# Inheritance", "35.C# Inheritance\35.C# Inheritance.csproj", "{B1AA10F3-F975-44E4-AB1F-BE80A1B90F5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35.C# Inheritance", "35.C# Inheritance\35.C# Inheritance.csproj", "{B1AA10F3-F975-44E4-AB1F-BE80A1B90F5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36. C# AbstractClass", "36. C# AbstractClass\36. C# AbstractClass.csproj", "{B6A77BBC-1C35-4B52-AEAD-7B69288670B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36. C# AbstractClass", "36. C# AbstractClass\36. C# AbstractClass.csproj", "{B6A77BBC-1C35-4B52-AEAD-7B69288670B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37.C# ArrayOfObjects", "37.C# ArrayOfObjects\37.C# ArrayOfObjects.csproj", "{86DF75C2-84B9-43E7-802D-C729B7F8CC2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37.C# ArrayOfObjects", "37.C# ArrayOfObjects\37.C# ArrayOfObjects.csproj", "{86DF75C2-84B9-43E7-802D-C729B7F8CC2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38.C# ObjectsAsArguments", "38.C# ObjectsAsArguments\38.C# ObjectsAsArguments.csproj", "{2CB9C206-BF80-49EC-8621-DEE18A40719C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "38.C# ObjectsAsArguments", "38.C# ObjectsAsArguments\38.C# ObjectsAsArguments.csproj", "{2CB9C206-BF80-49EC-8621-DEE18A40719C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39.C# MethodOverriding", "39.C# MethodOverriding\39.C# MethodOverriding.csproj", "{3B684990-600A-4BE8-AD0E-8CF12DC4227B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39.C# MethodOverriding", "39.C# MethodOverriding\39.C# MethodOverriding.csproj", "{3B684990-600A-4BE8-AD0E-8CF12DC4227B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40.C# ToStringMethod", "40.C# ToStringMethod\40.C# ToStringMethod.csproj", "{459457E5-F004-40BC-9EC8-4D0C27A8AB67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40.C# ToStringMethod", "40.C# ToStringMethod\40.C# ToStringMethod.csproj", "{459457E5-F004-40BC-9EC8-4D0C27A8AB67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41.C# Polymorphism", "41.C# Polymorphism\41.C# Polymorphism.csproj", "{BB75D7CC-1DCC-4263-85ED-5D30F79846ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "41.C# Polymorphism", "41.C# Polymorphism\41.C# Polymorphism.csproj", "{BB75D7CC-1DCC-4263-85ED-5D30F79846ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42.C# Interfaces", "42.C# Interfaces\42.C# Interfaces.csproj", "{89B4826F-0A9F-4887-A3ED-052EF2CE638B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{BB75D7CC-1DCC-4263-85ED-5D30F79846ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB75D7CC-1DCC-4263-85ED-5D30F79846ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB75D7CC-1DCC-4263-85ED-5D30F79846ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B4826F-0A9F-4887-A3ED-052EF2CE638B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B4826F-0A9F-4887-A3ED-052EF2CE638B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B4826F-0A9F-4887-A3ED-052EF2CE638B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B4826F-0A9F-4887-A3ED-052EF2CE638B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
