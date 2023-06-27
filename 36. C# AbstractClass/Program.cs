@@ -9,7 +9,7 @@ namespace AbstractClass
             Car car = new Car();
             Bicycle bicycle = new Bicycle();
             Boat boat = new Boat();
-            Vehicle vehicle = new Vehicle();
+          //  Vehicle vehicle = new Vehicle();
 
         }
     }
