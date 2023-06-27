@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46.C# AutoImplementedProper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47.C# Enums", "47.C# Enums\47.C# Enums.csproj", "{6A98E5C8-2425-463F-997E-D1CBA2514041}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48.C# Generics", "48.C# Generics\48.C# Generics.csproj", "{4E80AC5A-73E8-46C0-9A6C-433A5A3DEBF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{6A98E5C8-2425-463F-997E-D1CBA2514041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A98E5C8-2425-463F-997E-D1CBA2514041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A98E5C8-2425-463F-997E-D1CBA2514041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E80AC5A-73E8-46C0-9A6C-433A5A3DEBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E80AC5A-73E8-46C0-9A6C-433A5A3DEBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E80AC5A-73E8-46C0-9A6C-433A5A3DEBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E80AC5A-73E8-46C0-9A6C-433A5A3DEBF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
